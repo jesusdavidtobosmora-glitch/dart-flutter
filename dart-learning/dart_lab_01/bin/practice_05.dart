@@ -71,11 +71,3 @@ double calculateAverage(double totalArea, int cropCount) {
 
 //error
 
-double calculateTotal(double first, double second) {
-  double total = first + second;
-  return total;
-}
-
-void main() {
-  print(calculateTotal(20.0, 30.0));
-}
